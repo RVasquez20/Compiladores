@@ -1,0 +1,21 @@
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe.config
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.pdb
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.FormMenuPrincipal.resources
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.exe
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.pdb
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FastColoredTextBox.dll
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FastColoredTextBox.xml
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.CopyComplete
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\System.CodeDom.dll
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\System.CodeDom.xml
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.ImportContent.resources
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\success_icon.ico
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\save_guardar_icon.png
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\error_icon.ico

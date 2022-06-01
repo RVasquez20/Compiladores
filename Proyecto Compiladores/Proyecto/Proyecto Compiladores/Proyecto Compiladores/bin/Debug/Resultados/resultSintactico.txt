@@ -1,0 +1,5 @@
+El valor de a es:  3.00
+Error syntax error
+FIN del Analisis.
+
+Numero lineas analizadas: 2

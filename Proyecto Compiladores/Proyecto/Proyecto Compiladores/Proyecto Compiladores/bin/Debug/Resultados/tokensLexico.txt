@@ -1,0 +1,5 @@
+TKN_ID: a 
+TKN_ASIGN: = 
+TKN_PTOCOMA: ; 
+
+Numero lineas analizadas: 1 
